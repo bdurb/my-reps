@@ -1,0 +1,12 @@
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.dh-button {
+  cursor: pointer;
+}

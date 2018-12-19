@@ -1,0 +1,14 @@
+
+.main-rep {
+  text-align: center;
+}
+.reps {
+  margin-top:10px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 3px;
+}
+
+.rep-button {
+  margin-left: 2px;
+}
